@@ -1,7 +1,3 @@
-
-    
-.
-
 🤖 AI in DevOps – Project Report
 📘 Overview
 
