@@ -61,7 +61,7 @@ A screenshot of the executed test results is included in the project folder.
 ---
 
 ### 📊 Task 3: Predictive Analytics for Resource Allocation  
-The **Kaggle Breast Cancer Dataset** was used to train a predictive model for resource allocation priorities.  
+The **Kaggle heart disease Dataset** was used to train a predictive model for resource allocation priorities.  
 
 **Process Summary:**  
 - The dataset was cleaned, labeled, and split into training and testing subsets.  
@@ -98,8 +98,7 @@ Developers must ensure that AI-based systems are transparent, interpretable, and
 |------|--------------|--------|
 | Part 1 | Theoretical Analysis | `Theoretical_Analysis.pdf` |
 | Part 2 | AI Code Comparison, No-Code Test Results, Predictive Model | Code + Notebook + Screenshots |
-| Part 3 | Ethical Reflection | Included in README |
-| Bonus | Not Attempted | — |
+| Part 3 | Ethical Reflection |
 
 ---
 
